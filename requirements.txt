@@ -1,0 +1,10 @@
+torch>=1.12
+torchvision>=0.13
+numpy
+scikit-learn
+matplotlib
+pillow
+tqdm
+efficientnet-pytorch
+opencv-python
+wandb
